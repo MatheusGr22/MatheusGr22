@@ -1,6 +1,6 @@
 # 👩🏻‍💻 Matheus Gabriel
 
-**`Desenvolvedora FullStack`**
+**`Desenvolvedor FullStack`**
 
 Estudante de Engenharia de Software com formação complementar em Programação Front-End, Inteligência Artificial, Análise de Dados e Big Data. Possuo conhecimentos em HTML, CSS, JavaScript, Bootstrap, Node.js e SQL, e atualmente aprofundo meus estudos em React.js. Meu objetivo é me especializar como Desenvolvedor Full Stack, com planos de estudar futuramente Java e Python. Aplico meus conhecimentos no desenvolvimento de soluções reais e estruturadas, tendo construído projetos recentes como um Pesquisador de Países e um Gerenciador de Produtos. Possuo habilitação categoria B e inglês básico/intermediário, mantendo o foco constante em aprendizado contínuo, lógica de programação e entrega de código limpo e eficiente.
 
