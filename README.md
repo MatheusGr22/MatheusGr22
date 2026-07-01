@@ -1,7 +1,7 @@
-<!-- Animação de digitação para o cabeçalho -->
+<!-- Animação de digitação para o cabeçalho (Ciano Elétrico para visual escuro) -->
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=ff1493&center=true&vCenter=true&width=600&lines=Olá%2C+eu+sou+o+Matheus!;Estudante+de+Engenharia+de+Software;Desenvolvedor+Front-end;Futuro+Full-Stack" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=00E6FF&center=true&vCenter=true&width=600&lines=Olá%2C+eu+sou+o+Matheus!;Estudante+de+Engenharia+de+Software;Desenvolvedor+Front-end;Futuro+Full-Stack" alt="Typing SVG" />
   </a>
 </div>
 
@@ -15,7 +15,7 @@
 
 ### 🚀 Sobre Mim
 
-Sou estudante de **Engenharia de Software** pelo Centro Universitário UNA, focado em construir arquiteturas sólidas e interfaces eficientes. Acredito nas melhores práticas de desenvolvimento, no código bem documentado e no aprendizado contínuo.
+Sou estudante de **Engenharia de Software** pelo Centro Universitario UNA, focado em construir arquiteturas sólidas e interfaces eficientes. Acredito nas melhores práticas de desenvolvimento, no código bem documentado e no aprendizado contínuo.
 
 - 🔭 **Foco Atual:** Desenvolvimento Front-end responsivo, aprofundando meus conhecimentos na tríade **HTML/CSS/JS**, ecossistema **React.js**, **Bootstrap** e no Back-end com **Node.js**.
 - 🌱 **Evoluindo em:** Arquitetura Full Stack, **Big Data**, modelagem de banco de dados e algoritmos de **Machine Learning** (como a lógica do K-Nearest Neighbors).
@@ -60,12 +60,16 @@ Sou estudante de **Engenharia de Software** pelo Centro Universitário UNA, foca
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Stats (A CORREÇÃO JÁ ESTÁ AQUI!)
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=MatheusGr22&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Estatísticas do Matheus" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusGr22&layout=compact&langs_count=7&theme=radical" alt="Linguagens Mais Usadas" />
+
+[![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=MatheusGr22&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)](https://github.com/MatheusGr22)
+[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusGr22&layout=compact&langs_count=7&theme=tokyonight)](https://github.com/MatheusGr22)
+
 </div>
+
+---
 
 ### 📫 Vamos construir algo juntos!
 
