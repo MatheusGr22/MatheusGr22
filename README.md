@@ -1,7 +1,7 @@
 <!-- Animação de digitação para o cabeçalho -->
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=00FF99&center=true&vCenter=true&width=600&lines=Olá%2C+eu+sou+o+Matheus+Gabriel!;Estudante+de+Engenharia+de+Software;Desenvolvedor+Front-end;Futuro+Full-Stack" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=ff1493&center=true&vCenter=true&width=600&lines=Olá%2C+eu+sou+o+Matheus!;Estudante+de+Engenharia+de+Software;Desenvolvedor+Front-end;Futuro+Full-Stack" alt="Typing SVG" />
   </a>
 </div>
 
@@ -63,8 +63,8 @@ Sou estudante de **Engenharia de Software** pelo Centro Universitário UNA, foca
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MatheusGr22&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusGr22&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MatheusGr22&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusGr22&layout=compact&langs_count=7&theme=radical"/>
 </div>
 
 ---
