@@ -63,9 +63,8 @@ Sou estudante de **Engenharia de Software** pelo Centro Universitário UNA, foca
 ### 📊 GitHub Stats
 
 <div align="center">
-  <!-- Substitua SEU_USUARIO_AQUI pelo seu user do GitHub para ativar as estatísticas -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_AQUI&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_AQUI&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MatheusGr22&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusGr22&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
 ---
