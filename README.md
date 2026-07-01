@@ -1,76 +1,138 @@
-<!-- Animação de digitação para o cabeçalho (Ciano Elétrico para visual escuro) -->
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=00E6FF&center=true&vCenter=true&width=600&lines=Olá%2C+eu+sou+o+Matheus!;Estudante+de+Engenharia+de+Software;Desenvolvedor+Front-end;Futuro+Full-Stack" alt="Typing SVG" />
-  </a>
-</div>
+# 👩🏻‍💻 Matheus Gabriel
 
+**`Desenvolvedora FullStack`**
+
+Estudante de Engenharia de Software com formação complementar em Programação Front-End, Inteligência Artificial, Análise de Dados e Big Data. Possuo conhecimentos em HTML, CSS, JavaScript, Bootstrap, Node.js e SQL, e atualmente aprofundo meus estudos em React.js. Meu objetivo é me especializar como Desenvolvedor Full Stack, com planos de estudar futuramente Java e Python. Aplico meus conhecimentos no desenvolvimento de soluções reais e estruturadas, tendo construído projetos recentes como um Pesquisador de Países e um Gerenciador de Produtos. Possuo habilitação categoria B e inglês básico/intermediário, mantendo o foco constante em aprendizado contínuo, lógica de programação e entrega de código limpo e eficiente.
+
+<p align="left"> 
+    <a href="https://github.com/MatheusGr22?tab=repositories&sort=stargazers">
+        <img 
+            alt="Total de estrelas" 
+            title="Total de estrelas GitHub" 
+            src="https://custom-icon-badges.demolab.com/github/stars/MatheusGr22?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
+        />
+    </a>
+    <a href="https://github.com/MatheusGr22?tab=followers">
+        <img 
+            alt="Seguidores" 
+            title="Me siga no GitHub" 
+            src="https://custom-icon-badges.demolab.com/github/followers/MatheusGr22?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+        />
+    </a>
+</p>
+
+---
+
+### 🤖 Linguagens e Tecnologias
+
+<img 
+    align="left" 
+    alt="HTML"
+    title="HTML" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="CSS" 
+    title="CSS"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="JavaScript" 
+    title="JavaScript"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="React"
+    title="React" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Next.js" 
+    title="Next.js"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Bootstrap"
+    title="Bootstrap" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="Git" 
+    title="Git"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Python" 
+    title="Python"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Node.js" 
+    title="Node.js"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="MySQL" 
+    title="MySQL"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
+/>
+<br/>
 <br/>
 
-<div align="center">
-  <em>Transformando lógica em código limpo, estruturado e eficiente. ☕💻</em>
-</div>
+### 📊 Estatísticas
 
----
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=MatheusGr22&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  />
 
-### 🚀 Sobre Mim
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusGr22&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
 
-Sou estudante de **Engenharia de Software** pelo Centro Universitario UNA, focado em construir arquiteturas sólidas e interfaces eficientes. Acredito nas melhores práticas de desenvolvimento, no código bem documentado e no aprendizado contínuo.
+</p>
 
-- 🔭 **Foco Atual:** Desenvolvimento Front-end responsivo, aprofundando meus conhecimentos na tríade **HTML/CSS/JS**, ecossistema **React.js**, **Bootstrap** e no Back-end com **Node.js**.
-- 🌱 **Evoluindo em:** Arquitetura Full Stack, **Big Data**, modelagem de banco de dados e algoritmos de **Machine Learning** (como a lógica do K-Nearest Neighbors).
-- 💡 **Outras áreas de interesse:** Segurança da informação e networking (Start Hacking), lógica matemática avançada, hardware e o setor de aviação.
-- ⚡ **Filosofia:** Produtividade e otimização são chaves. Automatizo o que posso e escrevo código eficiente para ter tempo de qualidade com amigos e família.
-
----
-
-### 🛠️ Minha Stack de Tecnologias
-
-<div align="center">
-  <h4>Front-end</h4>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
-  
-  <h4>Back-end & Dados</h4>
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  
-  <h4>Ferramentas & Auxiliares</h4>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=github&logoColor=white" />
-</div>
-
----
-
-### 🏗️ Projetos em Destaque
-
-> 🌎 **Procurador de Países** <br>
-> Aplicação desenvolvida para buscar e exibir dados dinâmicos sobre diferentes países. Foco no consumo de APIs RESTful, manipulação assíncrona, estruturação de dados e renderização dinâmica no DOM utilizando **JavaScript** moderno.
-
-> 📦 **Cadastro de Produtos** <br>
-> Sistema interativo para gerenciamento de estoque e registro de produtos. O projeto explora a lógica de operações CRUD (Create, Read, Update, Delete), validação de formulários, controle de estado e componentização de interfaces, visando um código limpo e escalável.
-
-> 🗄️ **Scripts Avançados e Análise SQL** <br>
-> Repositório dedicado à arquitetura de dados e queries complexas. Inclui rotinas envolvendo Joins, Window Functions (funções de Ranking), filtros refinados e lógica de negócio diretamente no banco de dados.
-
----
-
-### 📊 GitHub Stats (A CORREÇÃO JÁ ESTÁ AQUI!)
-
-<div align="center">
-
-[![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=MatheusGr22&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)](https://github.com/MatheusGr22)
-[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusGr22&layout=compact&langs_count=7&theme=tokyonight)](https://github.com/MatheusGr22)
-
-</div>
-
----
-
+<br>
+<br>
+<br>
 ### 📫 Vamos construir algo juntos!
 
 Se quiser conversar sobre tecnologia, oportunidades de carreira Full Stack, ou até mesmo trocar ideias sobre aviação e hardware, me chame nos links abaixo:
